@@ -1,14 +1,15 @@
-<p>JavaScript ✈ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript</p>
-<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/javascript.png" width="50" height="50"/></p>
+<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/javascript.png" width="50" height="50" align="left">
+JavaScript ✈ https://developer.mozilla.org/pt-BR/docs/Web/JavaScript</p><br>
 
-<p>Node.js ✈ https://nodejs.org/en/</p></p>
-<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/nodejs.png" width="50" height="50"/></p>
+<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/nodejs.png" width="50" height="50" align="left">
+Node.js ✈ https://nodejs.org/en/</p><br>
 
-<p>Reactjs ✈ https://reactjs.org/</p>
-<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/reactjs.png" width="50" height="50"/></p>
+<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/reactjs.png" width="50" height="50" align="left">
+Reactjs ✈ https://reactjs.org/</p><br>
 
-<p>MySQL ✈ https://www.mysql.com/</p>
-<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/mysql.png" width="50" height="50"/></p>
+<p><img src="https://github.com/adennyfernandesphp/imagens/blob/master/Logo/mysql.png" width="50" height="50" align="left">
+MySQL ✈ https://www.mysql.com/</p><br>
+
 
 
 
