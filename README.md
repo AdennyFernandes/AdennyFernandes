@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
-     <head>
-          <title>Prgramação</title>
+     <head>          
           <meta charset="UTF-8">  
      </head>
   <body style="background-color: ##40E0D0">
