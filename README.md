@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://github.com/adennyfernandesphp/imagens/blob/master/homem%20letra.gif"/></p>
 
-<p><Email:"adennyfer@gmail.com"></p>
+
 
 
 
