@@ -13,7 +13,7 @@
 
 <p align="center"><img src="https://github.com/adennyfernandesphp/imagens/blob/master/homem%20letra.gif"/></p>
 
-Email: adennyfer@gmail.com
+<li itemprop="email" aria-label="Email: adennyfer@gmail.com" class="vcard-detail pt-1 css-truncate css-truncate-target ">
 
 
 
