@@ -16,7 +16,7 @@
 <p><a href="mailto:adennyfer@gmail.com"></a></p>
 
 
-<a href="https://www.linkedin.com/in/adennyfernandes/" target="_blank" width="50" height="50" align="left"></p>
+
 
 
 
