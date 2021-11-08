@@ -2,7 +2,7 @@
 <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank">JavaScript ✈</a></p><br>
 
 <p><img src="https://github.com/adennyfernandes/imagens/blob/master/Logo/nodejs.png" width="50" height="50" align="left">
-<a href="https://nodejs.org/en/" target="_blank">Nodejs ✈</a></p><br>
+<a href="https://nodejs.org/en/" target="_blank">Node.js ✈</a></p><br>
 
 <p><img src="https://github.com/adennyfernandes/imagens/blob/master/Logo/reactjs.png" width="50" height="50" align="left">
 <a href="https://reactjs.org/" target="_blank">React ✈</a></span></p><br>
