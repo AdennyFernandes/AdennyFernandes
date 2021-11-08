@@ -5,7 +5,7 @@
 <a href="https://nodejs.org/en/" target="_blank">Nodejs ✈</a></p><br>
 
 <p><img src="https://github.com/adennyfernandes/imagens/blob/master/Logo/reactjs.png" width="50" height="50" align="left">
-<a href="https://reactjs.org/" target="_blank">Reactjs ✈</a></span></p><br>
+<a href="https://reactjs.org/" target="_blank">React ✈</a></span></p><br>
 
 <p><img src="https://github.com/adennyfernandes/imagens/blob/master/Logo/mysql.png" width="50" height="50" align="left">
 <a href="https://www.mysql.com/" target="_blank">MySql ✈</a></span></p><br>
